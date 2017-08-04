@@ -14,6 +14,9 @@
     <link href="/css/font-awesome.min.css" rel='stylesheet' type='text/css'>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/app.css" rel="stylesheet">
+    <link href="/css/jquery.dataTables.css" rel="stylesheet">
+    <link href="/css/dataTables.bootstrap.css" rel="stylesheet">
+
 
 </head>
 <body>
@@ -21,6 +24,8 @@
 <script src="/js/app.js"></script>
 <script src="/js/jquery-3.1.0.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
+<script src="/js/jquery.dataTables.min.js"></script>
+<script src="/js/dataTables.bootstrap.mi.js"></script>
 @yield('scripts')
 </body>
     <div id="app">

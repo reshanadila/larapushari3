@@ -2,7 +2,7 @@
 
 use Illuminate\Database\Seeder;
 use App\Role;
-use App\Users;
+use App\User;
 
 class UsersSeeder extends Seeder
 {
